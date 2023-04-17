@@ -8,7 +8,7 @@ using TaskManagement.Database.Models;
 
 namespace TaskManagement.Admin.Commands
 {
-    public class ShowUserByEmailCommand
+    public class ShowUserByEmailCommandd
     {
         public static void Handle()
         {
